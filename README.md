@@ -7,12 +7,7 @@
 ![Status](https://img.shields.io/badge/status-active-success?style=for-the-badge)
 
 **A comprehensive platform for cryptocurrency analysis and portfolio management**
-
-[Live Demo](https://your-demo-link.com) • [Documentation](https://your-docs-link.com) • [Report Bug](https://github.com/yourusername/crypto-project/issues) • [Request Feature](https://github.com/yourusername/crypto-project/issues)
-
-</div>
-
----
+ 
 
 ## 📋 Table of Contents
 
